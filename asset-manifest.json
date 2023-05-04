@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.258e8dde.css",
+    "main.js": "/static/js/main.98a9e5f0.js",
+    "static/media/Elipse15.png": "/static/media/Elipse15.56a61d00862c8dbe855a.png",
+    "static/media/form.png": "/static/media/form.c33974477216030750c7.png",
+    "static/media/nabowy.PNG": "/static/media/nabowy.aa4930cf3eacbf41098d.PNG",
+    "index.html": "/index.html",
+    "main.258e8dde.css.map": "/static/css/main.258e8dde.css.map",
+    "main.98a9e5f0.js.map": "/static/js/main.98a9e5f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.258e8dde.css",
+    "static/js/main.98a9e5f0.js"
+  ]
+}
